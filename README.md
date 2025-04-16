@@ -5,7 +5,7 @@ Prototyp zrobiłem na ESP32 DEV
 Pinologia:
 
 LED1: 4
-LED2: 13
+| LED2: 13
 LED3: 16
 LED4: 17
 LED5: 18
