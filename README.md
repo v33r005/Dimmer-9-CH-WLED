@@ -5,8 +5,7 @@ Prototyp zrobiłem na ESP32 DEV
 Pinologia:
 
 LED1: GPIO - 4 |
-
-LED2: GPIO - 13 |
+- LED2: GPIO - 13 |
 LED3: GPIO - 16 |
 LED4: GPIO - 17 |
 LED5: GPIO - 18 |
