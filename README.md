@@ -3,7 +3,6 @@
 Dimmer do pasków programowalenych Typu WS2812, WS2815 itp.
 Prototyp zrobiłem na ESP32 DEV
 Pinologia:
-
 - LED1: GPIO - 4 
 - LED2: GPIO - 13 
 - LED3: GPIO - 16 
@@ -24,5 +23,5 @@ Pinologia:
 - Przycisk8: GPIO - 36 
 - Przycisk9: GPIO - 39 
 
-Przycisk 1 odpowiada sterowaniu paska LED 1 itd. ¶ Przyciskiem możemy włączyć i wyłączyć kanał, oraz regulować jasność. 
+Przycisk 1 odpowiada sterowaniu paska LED 1 itd. Przyciskiem możemy włączyć i wyłączyć kanał, oraz regulować jasność. 
 W webserwerze możemy dla każdego z pasków ustawić ilość pikseli, oraz typ paska (RGB lub GRB).
