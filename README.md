@@ -12,7 +12,6 @@ Pinologia:
 - LED7: GPIO - 21 
 - LED8: GPIO - 22 
 - LED9: GPIO - 23 
-
 - Przycisk1: GPIO - 25 
 - Przycisk2: GPIO - 26 
 - Przycisk3: GPIO - 27 
