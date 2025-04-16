@@ -4,15 +4,15 @@ Dimmer do pasków programowalenych Typu WS2812, WS2815 itp.
 Prototyp zrobiłem na ESP32 DEV
 Pinologia:
 
-LED1: GPIO - 4 |
-- LED2: GPIO - 13 |
-LED3: GPIO - 16 |
-LED4: GPIO - 17 |
-LED5: GPIO - 18 |
-LED6: GPIO - 19 |
-LED7: GPIO - 21 |
-LED8: GPIO - 22 |
-LED9: GPIO - 23 |
+- LED1: GPIO - 4 
+- LED2: GPIO - 13 
+- LED3: GPIO - 16 
+- LED4: GPIO - 17
+- LED5: GPIO - 18 
+- LED6: GPIO - 19 
+- LED7: GPIO - 21 
+- LED8: GPIO - 22 
+- LED9: GPIO - 23 
 
 Przycisk1: GPIO - 25 |
 Przycisk2: GPIO - 26 |
